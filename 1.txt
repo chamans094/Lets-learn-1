@@ -1,2 +1,5 @@
 hii this is chaman singh here
+<<<<<<< HEAD
 how are you 
+=======
+>>>>>>> 8be341a953ca66a489b483ffaf1bd04322a73b44
