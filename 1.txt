@@ -1,5 +1,5 @@
 hii this is chaman singh here
 <<<<<<< HEAD
-how are you 
+how are you lets learn git once again 
 =======
 >>>>>>> 8be341a953ca66a489b483ffaf1bd04322a73b44
